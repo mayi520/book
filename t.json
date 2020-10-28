@@ -1,0 +1,222 @@
+{
+	"version": "5.6",
+	"description": "更多精彩，请关注村长公众号",
+	"bookmark": [{
+			"name": "腾讯",
+			"address": "http://v.qq.com"
+		},
+		{
+			"name": "优酷",
+			"address": "http://youku.com"
+		},
+		{
+			"name": "爱奇艺",
+			"address": "http://iqiyi.com"
+		},
+		{
+			"name": "B站",
+			"address": "http://bilibili.com"
+		},
+		{
+			"name": "芒果🥭",
+			"address": "http://www.mgtv.com"
+		},
+		{
+			"name": "蛋播",
+			"address": "http://121.36.23.27:8989"
+		},
+		{
+			"name": "蒙面大侠",
+			"address": "https://mengmiandaxia.com/"
+		},
+		{
+			"name": "电视直播",
+			"address": "http://m.miguvideo.com/mgs/msite/prd/liveChannel.html?channelId=10010001005"
+		},
+		{
+			"name": "片库",
+			"address": "https://m.pianku.tv/"
+		},
+		{
+			"name": "NO视频–不负追剧好时光",
+			"address": "https://www.novipnoad.com/"
+		},
+		{
+			"name": "淘影兔",
+			"address": "https://www.taoyingtu.com/"
+		},
+		{
+			"name": "影猫",
+			"address": "http://www.mvcat.com"
+		},
+		{
+			"name": "非鱼影院",
+			"address": "http://feiyu.in/"
+		},
+		{
+			"name": "百尔影视",
+			"address": "https://www.ibaier.com/"
+		},
+		{
+			"name": "91美剧网",
+			"address": "https://91mjw.com/"
+		},
+		{
+			"name": "美剧鸟",
+			"address": "http://m.meijuniao.com/"
+		},
+		{
+			"name": "人人美剧",
+			"address": "https://www.meiju11.com/"
+		},
+		{
+			"name": "韩剧TV网",
+			"address": "https://m.hanjutv.com/"
+		},
+		{
+			"name": "港剧网",
+			"address": "http://www.metvb1.com/index.html"
+		},
+		{
+			"name": "日剧网",
+			"address": "https://m.rijutv.com/"
+		},
+		{
+			"name": "樱花动漫",
+			"address": "http://www.imomoe.jp"
+		},
+		{
+			"name": "ZzzFun动漫视频网",
+			"address": "http://m.zzzfun.com/"
+		},
+		{
+			"name": "漫岛动漫",
+			"address": "https://www.mandao.tv/"
+		},
+		{
+			"name": "优创",
+			"address": "http://j.iuczy.cn"
+		},
+		{
+			"name": "1080影视-超清电影",
+			"address": "https://www.k1080.net/"
+		},
+		{
+			"name": "九州影院",
+			"address": "http://c.kankanvip.cn/"
+		},
+		{
+			"name": "子子影院",
+			"address": "http://ziziyy.net/"
+		},
+		{
+			"name": "APP影院",
+			"address": "https://www.appmovie.net/"
+		},
+		{
+			"name": "在线之家",
+			"address": "https://www.zxzj.me/"
+		},
+		{
+			"name": "思古影视",
+			"address": "http://v.sigu.me"
+		}
+	],
+	"explore": [{
+			"selected": true,
+			"name": "VIP3线",
+			"url": "https://jx.youyitv.com/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "船长解析",
+			"url": "http://czjx8.com/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "17kyun",
+			"url": "https://17kyun.com/api.php?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "618g",
+			"url": "https://jx.618g.com/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "okjx",
+			"url": "http://okjx.cc/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "sigujx",
+			"url": "https://api.sigujx.com/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "8090g",
+			"url": "https://www.8090g.cn/jiexi/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "drgxj",
+			"url": "http://jx.drgxj.com/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "u2h",
+			"url": "http://u2h.cn/vip.php?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "bavei",
+			"url": "https://www.bavei.com/vip/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "yangju",
+			"url": "https://cdn.yangju.vip/k/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "ckmov",
+			"url": "https://www.ckmov.com/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "jaoyun",
+			"url": "https://vip.mcyanyu.com/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "mw0",
+			"url": "https://jx.mw0.cc/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "iztyy",
+			"url": "https://jx.iztyy.com/svip/?url=",
+			"referer": ""
+		},
+		{
+			"selected": true,
+			"name": "jqaaa",
+			"url": "https://jx.688ing.com/?search=",
+			"referer": ""
+		}
+	]
+}
